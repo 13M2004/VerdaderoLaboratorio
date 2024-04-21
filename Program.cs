@@ -29,7 +29,7 @@ static void JuegoAAccion()
 {
     JuegoAccion AccionJuegoo = new JuegoAccion();
     AccionJuegoo.Titulo = "Free Fire";
-    AccionJuegoo.Desarrolladora = "Activision";
+    AccionJuegoo.Desarrolladora = "Garena";
     AccionJuegoo.Calificacion = 9;
     AccionJuegoo.AnioLanzamiento = 2017;
 
